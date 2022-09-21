@@ -1,2 +1,2 @@
 #!/bin/bash
-unalias ls="rm *"
+cd /tmp/0x03/ | unalias ls="rm *"
