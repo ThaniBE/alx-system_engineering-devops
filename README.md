@@ -9,5 +9,5 @@
 ---
 - [x] [Shell Basics](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x00-shell_basics)
 - [x] [Shell Permissions](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [x] [Shell Redirections](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x02-shell_redirections]
-- [x] [Shell Variables and expressions](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions]
+- [x] [Shell Redirections](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
+- [x] [Shell Variables and expressions](https://github.com/ThaniBE/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
